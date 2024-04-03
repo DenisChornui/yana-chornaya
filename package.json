@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "yana-chornaya",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DenisChornui.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://DenisChornui.github.io/yana-chornaya/",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.1",
